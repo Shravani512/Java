@@ -1,0 +1,9 @@
+*.exe
+.vscode/
+temp.cpp
+.cph
+*.bin
+*.class
+Temp_test.java
+temp.txt
+
